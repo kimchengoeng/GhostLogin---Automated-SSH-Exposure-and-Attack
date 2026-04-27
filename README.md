@@ -40,8 +40,7 @@ sudo apt install nmap sshpass
 ---
 
 Required tools:
--`bash`
--`nmap`
--`ssh`
--`sshpass`
-
+- `bash`
+- `nmap`
+- `ssh`
+- `sshpass`
