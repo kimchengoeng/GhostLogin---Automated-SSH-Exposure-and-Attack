@@ -34,9 +34,11 @@ Install dependencies:
 
 ```bash
 sudo apt update
-sudo apt install nmap sshpass```
+sudo apt install nmap sshpass
+```
 
 ---
+
 Required tools:
 -`bash`
 -`nmap`
